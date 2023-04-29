@@ -32,7 +32,7 @@ The steps to start a Svelte project are covered in the presentation slides. You 
 
 ## Speaker Contact 👨‍🦱
 
-- Email: [walidseffih@gmail.com](mailto:walidseffih@gmail.com)
+- Email: [walidseffih9@gmail.com](mailto:walidseffih@gmail.com)
 - Instagram: [https://www.instagram.com/walid._.redoouan/](https://www.instagram.com/walid._.redoouan/)
 
 ## Contributions 🤝
